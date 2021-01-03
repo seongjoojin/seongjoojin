@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Ant%20Design-0170FE?style=flat-square&logo=ant%20design&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Post%20CSS-DD3A0A?style=flat-square&logo=postcss&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Font%20Awesome-339AF0?style=flat-square&logo=fontawesome&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Font%20Awesome-339AF0?style=flat-square&logo=font-awesome&logoColor=white"/></a>&nbsp
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/></a>&nbsp
