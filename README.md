@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&section=header&text=SeongjooJin&fontSize=70&animation=twinkling)
 <h2 align="center">Tech Stack</h2>
-<p align="center"> Techs that I've used at least once</p>
 <br />
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>&nbsp
