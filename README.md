@@ -11,7 +11,6 @@
 <hr />
 <p align="center">
   <img src="https://img.shields.io/badge/React%20Native-62dafb?style=flat-square&logo=react&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/React%20Hooks-62dafb?style=flat-square&logo=react&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Redux%20Saga-764ABC?style=flat-square&logo=redux&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Styled%20Components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/></a>&nbsp  
@@ -21,6 +20,7 @@
   <img src="https://img.shields.io/badge/Sentry-FB4226?style=flat-square&logo=sentry&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Fastlane-00F200?style=flat-square&logo=fastlane&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/CocoaPods-EE3322?style=flat-square&logo=cocoapods&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white"/></a>&nbsp 
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/></a>&nbsp
