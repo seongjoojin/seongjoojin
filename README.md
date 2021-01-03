@@ -7,24 +7,25 @@
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/></a>&nbsp
 </p>
----
+<hr />
 <p align="center">
   <img src="https://img.shields.io/badge/React%20Native-62dafb?style=flat-square&logo=react&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Redux%20Saga-764ABC?style=flat-square&logo=redux&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Styled%20Components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/></a>&nbsp  
   <img src="https://img.shields.io/badge/Eslint-4B32C3?style=flat-square&logo=eslint&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=white"/></a>&nbsp 
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/React%20Router-CA4245?style=flat-square&logo=reac%20routert&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Ant%20Design-0170FE?style=flat-square&logo=ant%20design&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Post%20CSS-DD3A0A?style=flat-square&logo=postcss&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Font%20Awesome-339AF0?style=flat-square&logo=font-awesome&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/></a>&nbsp
 </p>
 <p align="center">
@@ -36,7 +37,7 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/></a>&nbsp
 </p>
----
+<hr />
 <p align="center">
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=visual%20studio%20code&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/></a>&nbsp
