@@ -1,4 +1,7 @@
+
+<div align="center">
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&section=header&text=SeongjooJin&fontSize=70&animation=twinkling)
+<div>
 
 <!--
 **seongjoojin/seongjoojin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
