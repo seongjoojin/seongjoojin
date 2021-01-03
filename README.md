@@ -19,10 +19,13 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Ant%20Design-0170FE?style=flat-square&logo=ant%20design&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Post%20CSS-DD3A0A?style=flat-square&logo=postcss&logoColor=white"/></a>&nbsp
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Ant%20Design-0170FE?style=flat-square&logo=ant%20design&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Gatsby-663399?style=flat-square&logo=gatsby&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Nuxt.js-00C58E?style=flat-square&logo=nuxt.js&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/></a>&nbsp
 </p>
@@ -30,6 +33,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=visual%20studio%20code&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/></a>&nbsp
 </p>
 <p align="center">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseongjoojin&count_bg=%23FFEA49&title_bg=%239C9B9D&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
