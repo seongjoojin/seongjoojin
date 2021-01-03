@@ -7,6 +7,7 @@
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/></a>&nbsp
 </p>
 <h3 align="center">Framework and Library</h3>
 <p align="center">
@@ -23,12 +24,14 @@
   <img src="https://img.shields.io/badge/Ant%20Design-0170FE?style=flat-square&logo=ant%20design&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Post%20CSS-DD3A0A?style=flat-square&logo=postcss&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Font%20Awesome-339AF0?style=flat-square&logo=font-awesome&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/></a>&nbsp
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Nuxt.js-00C58E?style=flat-square&logo=nuxt.js&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Vuetify-4FC08D?style=flat-square&logo=vuetify&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Gatsby-663399?style=flat-square&logo=gatsby&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Nuxt.js-00C58E?style=flat-square&logo=nuxt.js&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/></a>&nbsp
