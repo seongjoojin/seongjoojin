@@ -14,6 +14,7 @@
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Redux%20Saga-764ABC?style=flat-square&logo=redux&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Styled%20Components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/></a>&nbsp  
+  <img src="https://img.shields.io/badge/Eslint-4B32C3?style=flat-square&logo=eslint&logoColor=white"/></a>&nbsp 
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/></a>&nbsp
@@ -33,8 +34,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=visual%20studio%20code&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/SVN-809CC9?style=flat-square&logo=subversion&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/SVN-809CC9?style=flat-square&logo=subversion&logoColor=white"/></a>&nbsp
 </p>
 <p align="center">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseongjoojin&count_bg=%23FFEA49&title_bg=%239C9B9D&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
