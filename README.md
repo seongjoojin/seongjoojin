@@ -20,6 +20,7 @@
   <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Sentry-FB4226?style=flat-square&logo=sentry&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Fastlane-00F200?style=flat-square&logo=fastlane&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/CocoaPods-EE3322?style=flat-square&logo=cocopods&logoColor=white"/></a>&nbsp 
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/></a>&nbsp
