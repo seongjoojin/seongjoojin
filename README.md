@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&section=header&text=SeongjooJin&fontSize=70&animation=twinkling)
 <h3 align="center">Tech Stack</h3>
-<p align="center"> Techs that I've used at least once </p>
+<p align="center"> Techs that I've used at least once</p>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp
@@ -8,6 +8,7 @@
   <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/></a>&nbsp
   <br>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/styled-components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/></a>&nbsp
   <br>
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=visual%20studio%20code&logoColor=white"/></a>&nbsp
