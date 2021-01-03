@@ -11,6 +11,7 @@
 <hr />
 <p align="center">
   <img src="https://img.shields.io/badge/React%20Native-62dafb?style=flat-square&logo=react&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/React%20Hooks-62dafb?style=flat-square&logo=react&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Redux%20Saga-764ABC?style=flat-square&logo=redux&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Styled%20Components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/></a>&nbsp  
@@ -22,7 +23,7 @@
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/React%20Router-CA4245?style=flat-square&logo=reac%20routert&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/React%20Router-CA4245?style=flat-square&logo=react%20router&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Ant%20Design-0170FE?style=flat-square&logo=ant%20design&logoColor=white"/></a>&nbsp
