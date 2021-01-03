@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&section=header&text=SeongjooJin&fontSize=70&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&section=header&text=SeongjooJin&fontSize=70&animation=twinkling)
 <h2 align="center">Tech Stack</h2>
 <br />
 <p align="center">
